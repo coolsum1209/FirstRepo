@@ -12,7 +12,7 @@ pipeline {
 		{
 		steps
 		{
-			echo "This is second stage of the Build"
+			echo "This is second stage of the Build !!"
 			}
 			
 		}
